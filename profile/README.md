@@ -11,6 +11,7 @@ Current services are developed using: `Java, Spring Boot, Eureka, Feign`
 - 🦁 [cyclops-account-credential](https://github.com/VL037-twittur/cyclops-account-credential) : account-credential service
 - 🐯 [gargoyle-account-profile](https://github.com/VL037-twittur/gargoyle-account-profile) : account-profile service
 - 🦒 [griffin-tweet](https://github.com/VL037-twittur/griffin-tweet) : tweet service
+- 🦊 [harpy-communication](https://github.com/VL037-twittur/harpy-communication) : communication service
 
 ---
 
