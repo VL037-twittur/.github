@@ -4,21 +4,23 @@
 
 Current services are developed using: `Java, Spring Boot, Eureka, Feign`
 
-- 🐵 [abomination-base](https://github.com/VL037-twittur/abomination-base) : base models dependency
-- 🐶 [twittur-db-migration](https://github.com/VL037-twittur/twittur-db-migration) : db migration
-- 🐺 [basilisk-registry](https://github.com/VL037-twittur/basilisk-registry) : eureka service registry | [:8761](http://localhost:8761)
-- 🐱 [centaur-gateway](https://github.com/VL037-twittur/centaur-gateway) : api gateway | [:8080](http://localhost:8080)
-- 🦁 [cyclops-account-credential](https://github.com/VL037-twittur/cyclops-account-credential) : account-credential service | [:8000](http://localhost:8000)
-- 🐯 [gargoyle-account-profile](https://github.com/VL037-twittur/gargoyle-account-profile) : account-profile service | [:8001](http://localhost:8001)
-- 🦒 [griffin-tweet](https://github.com/VL037-twittur/griffin-tweet) : tweet service | [:8002](http://localhost:8002)
-- 🦊 [harpy-communication](https://github.com/VL037-twittur/harpy-communication) : communication service | [:8003](http://localhost:8003)
+| Services | Detail | Port |
+|----------|--------|------|
+| [🐵 abomination-base](https://github.com/VL037-twittur/abomination-base) | base models maven dependency | |
+| [🐶 twittur-db-migration](https://github.com/VL037-twittur/twittur-db-migration) | db migration | |
+| [🐺 basilisk-registry](https://github.com/VL037-twittur/basilisk-registry) | eureka service registry | [:8761](http://localhost:8761) |
+| [🐱 centaur-gateway](https://github.com/VL037-twittur/centaur-gateway) | api gateway | [:8080](http://localhost:8080) |
+| [🦁 cyclops-account-credential](https://github.com/VL037-twittur/cyclops-account-credential) | account-credential service | [:8000](http://localhost:8000) |
+| [🐯 gargoyle-account-profile](https://github.com/VL037-twittur/gargoyle-account-profile) | account-profile service | [:8001](http://localhost:8001) |
+| [🦒 griffin-tweet](https://github.com/VL037-twittur/griffin-tweet) | tweet service | [:8002](http://localhost:8002) |
+| [🦊 harpy-communication](https://github.com/VL037-twittur/harpy-communication) | communication service | [:8003](http://localhost:8003) |
 
 ---
 
 #### 👵 How to run?
 
 | Tool              | Detail |
-|-------------------|------------------------------------------------------------------------------------|
+|-------------------|--------|
 | Java  (JAVA_HOME) | [17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) |
 | Spring Boot       | 3.0.4 |
 | Databases         | [PostgreSQL](https://www.postgresql.org/download), [MongoDB](https://www.mongodb.com/try/download/community) |
