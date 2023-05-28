@@ -14,6 +14,7 @@ Current services are developed using: `Java, Spring Boot, Eureka, Feign`
 | [🐯 gargoyle-account-profile](https://github.com/VL037-twittur/gargoyle-account-profile) | account-profile service | [:8001](http://localhost:8001) |
 | [🦒 griffin-tweet](https://github.com/VL037-twittur/griffin-tweet) | tweet service | [:8002](http://localhost:8002) |
 | [🦊 harpy-communication](https://github.com/VL037-twittur/harpy-communication) | communication service | [:8003](http://localhost:8003) |
+| [🦝 kraken-information](https://github.com/VL037-twittur/kraken-information) | information service | [:8004](http://localhost:8004)
 
 ---
 
