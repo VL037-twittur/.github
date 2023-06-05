@@ -18,6 +18,12 @@ Current services are developed using: `Java, Spring Boot, Eureka, Feign`
 
 ---
 
+#### 🎭 System Design
+
+<img src="https://github.com/VL037-twittur/.github/assets/68309124/9ab9ab40-5e36-45c1-84ec-f1d41364e639" alt="Twittur System Design" width="600">
+
+---
+
 #### 👵 How to run?
 
 | Tool              | Detail |
