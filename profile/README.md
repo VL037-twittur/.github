@@ -32,7 +32,7 @@ Current services are developed using: `Java, Spring Boot, Eureka, Feign`
 | Spring Boot       | 3.0.4 |
 | Databases         | [PostgreSQL](https://www.postgresql.org/download), [MongoDB](https://www.mongodb.com/try/download/community), [Redis](https://github.com/ServiceStack/redis-windows/tree/master/downloads) |
 | Message Broker    | [Apache Kafka](https://kafka.apache.org/downloads) |
-| Email Service     | Gmail SMTP |
+| Email Service     | Gmail SMTP (must disable `anti-virus`) |
 | IDE               | [Intellij IDEA Community Edition](https://www.jetbrains.com/idea/download) |
 | Build tool        | [Maven 3.6.3](https://archive.apache.org/dist/maven/maven-3/3.6.3) |
 
