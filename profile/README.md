@@ -48,5 +48,9 @@ Current services are developed using: `Java, Spring Boot, Eureka, Feign`
 
 ---
 
+### ❗ Twittur in Monolithic [here](https://github.com/VL-037/twittur)
+
+---
+
 🍿 Care to join? [DM me!](https://www.linkedin.com/in/vinc)
 
